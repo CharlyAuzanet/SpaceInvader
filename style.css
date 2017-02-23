@@ -1,0 +1,29 @@
+.container_custom{
+
+	height: 100vh;
+	width: 100vh;
+	background-color: green;
+	border: 1px;
+	padding-right: 0;
+	padding-left: 0;
+
+}
+
+.row_custom{
+
+	height: 12.5%;
+	
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.full{
+
+	background-color: white;
+	height: 100%;
+	
+}
+
+body{
+	background-color: green;
+}
